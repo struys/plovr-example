@@ -1,0 +1,3 @@
+
+goog.require('namespace.foo');
+
